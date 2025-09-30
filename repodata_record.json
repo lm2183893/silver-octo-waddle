@@ -1,0 +1,21 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "numpy <2.0a0",
+    "pillow >=8.3.2",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "fn": "imageio-2.33.1-py312haa95532_0.conda",
+  "license": "BSD-2-Clause",
+  "md5": "06358c84826cf8545fc56d487e87e067",
+  "name": "imageio",
+  "sha256": "7f3d234aeb89676ca7b8b47e934e5318bfabd128a76f1905b2f17fd29b72525f",
+  "size": 644356,
+  "subdir": "win-64",
+  "timestamp": 1707247868000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/imageio-2.33.1-py312haa95532_0.conda",
+  "version": "2.33.1"
+}
